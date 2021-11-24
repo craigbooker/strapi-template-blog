@@ -18,9 +18,9 @@
       "targetField": "name",
       "required": true
     },
-    "articles": {
+    "posts": {
       "via": "category",
-      "collection": "article"
+      "collection": "post"
     }
   }
 }
